@@ -65,7 +65,7 @@
   prerequisites:
     Пользователь находится на странице со списком товара
   test-data: |
-    Категории: "beauty", "fragrances", "furniture", "groceries"
+    Нет
   steps:
     - Выбрать категорию
   expected-result: |
