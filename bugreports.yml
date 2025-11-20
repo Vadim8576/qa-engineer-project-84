@@ -76,7 +76,7 @@
     но в консоли браузера в Devtools выводится ошибка "GET https://dummyjson.com/http/500/failed 500 (Internal Server Error)"
     Ответ запроса изображен на скриншоте assets/bug01.jpg
 
- - summary: |
+- summary: |
     Нет возможности перейти к оплате заказа
   environment: |
     Google Chrome Версия: 142.0.7444.164 (Официальная сборка) (64 бит)
