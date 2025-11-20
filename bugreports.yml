@@ -74,13 +74,7 @@
   actual-result: |
     Сообщение "Заказ успешно оформлен" выводится,
     но в консоли браузера в Devtools выводится ошибка "GET https://dummyjson.com/http/500/failed 500 (Internal Server Error)"
-    Response: {
-      "status": 500,
-      "title": "failed",
-      "type": "about:blank",
-      "detail": "failed",
-      "message": "failed"
-    }
+    Ответ запроса изображен на скриншоте assets/bug01.jpg
 
  - summary: |
     Нет возможности перейти к оплате заказа
