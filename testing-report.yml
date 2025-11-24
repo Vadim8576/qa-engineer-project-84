@@ -24,6 +24,10 @@
   status: pass
 
 - summary: |
+    Вывод запроса на удаления товара из корзины
+  status: fail
+
+- summary: |
     Хранение корзины в сессии браузера
   status: fail
   
