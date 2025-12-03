@@ -80,7 +80,7 @@
   status: fail
 
 - summary: |
-    Проверка фильтра «В наличии»
+    Проверка фильтра "В наличии"
   status: fail
 
 - summary: |
